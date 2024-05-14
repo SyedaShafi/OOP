@@ -1,2 +1,1 @@
-Sum of 3 numbers 6
-Sum of 2 numbers 6
+This is the function inside child class
